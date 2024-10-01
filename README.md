@@ -2,21 +2,20 @@
 
 - Création d'une machine virtuelle avec Ubuntu 24.04 avec la taille standard B1s
 
-![alt text](creation_vm.png)
+![Création de la VM](C:\Users\daddy\OneDrive\Documents\COURS_HITEMA\cours_M2\archi_cloud\creation_vm.png)
 
-![alt text](image-1.png)
+![VM créée](C:\Users\daddy\OneDrive\Documents\COURS_HITEMA\cours_M2\archi_cloud\image-1.png)
 
 - Connexion à la VM via SSH
 
-![alt text](image-2.png)
-
-![alt text](image.png)
+![Connexion via SSH](C:\Users\daddy\OneDrive\Documents\COURS_HITEMA\cours_M2\archi_cloud\image-2.png)
 
 - Installation de nginx
 
-![alt text](image-3.png)
+![Installation de nginx](C:\Users\daddy\OneDrive\Documents\COURS_HITEMA\cours_M2\archi_cloud\image-3.png)
 
 - Création de snapshots
 
-![alt text](image-4.png)
+![Création de snapshots](C:\Users\daddy\OneDrive\Documents\COURS_HITEMA\cours_M2\archi_cloud\image-4.png)
 
+![Création de snapshots](C:\Users\daddy\OneDrive\Documents\COURS_HITEMA\cours_M2\archi_cloud\image.png)
