@@ -1,42 +1,25 @@
-#  Lab 5 : Implémentation de azure SQL databases
+#  Lab 6 : Créer une ressource Azure Cognitive Services
 
 ### Étapes
 
-#### 1.  Aller dans azure SQL et créer une base de données SQL
+#### 1.  Créer une ressource Cognitive Services
 
-- Créer un serveur SQL
+- Créer une ressource cognitive services
 
-![Création d'un serveur SQL](image.png)
+![alt text](image.png)
+
+- Obtenir les clés d'API :
 
 ![alt text](image-1.png)
 
-#### 2. Configurer les paramètres de pare-feu pour permettre l'accès des clients
 
-- Paramètrer le pare-feu
+#### 2. Développer une application utilisant l'API Text Analytics
 
-![pare-feu](image-2.png)
-
-
-
-#### 3. Importer des données dans la base de données
-
-- Installer SQL Server comme extension dans vscode puis remplir les infos : 
-
-![alt text](image-3.png)
+- Résultat : 
 
 ![alt text](image-4.png)
 
-- Creation de la table et importation d'un fichier csv avec microsoft SQL Server
+
+#### 3. Suivre l’utilisation de l’API et gérer les clés
 
 ![alt text](image-5.png)
-
-
-#### 4. Implémenter la géo-réplication
-
-- Implémenter la géo-réplication dans la base de données (replica)
-
-![alt text](image-6.png)
-
-- Déploiement effectué
-
-![alt text](image-7.png)
