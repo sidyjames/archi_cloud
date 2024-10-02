@@ -1,36 +1,42 @@
-#  Lab 4 : Gestion des comptes de stockage Azure et des blobs
+#  Lab 5 : Implémentation de azure SQL databases
 
 ### Étapes
 
-#### 1.  Création d'un compte de stockage
+#### 1.  Aller dans azure SQL et créer une base de données SQL
 
-![Création d'un compte de stockage](image.png)
+- Créer un serveur SQL
 
-![Déploiement du compte de stockage](image-1.png)
+![Création d'un serveur SQL](image.png)
 
-#### 2. Téléverser et gérer des blobs via le portail Azure et Azure CLI
+![alt text](image-1.png)
 
-- Creation d'un conteneur via le compte de stockage
+#### 2. Configurer les paramètres de pare-feu pour permettre l'accès des clients
 
-![Creation d'un conteneur via le compte de stockage](image-2.png)
+- Paramètrer le pare-feu
 
-- Téleversement des fichiers dans le conteneur via le portail azure
+![pare-feu](image-2.png)
 
-![Téleversement des fichiers dans le conteneur](image-3.png)
 
-- Téleversement des fichiers dans le conteneur via azure CLI (creation d'un container, upload du fichier)
 
-![Création d'un container avec azure cli dans un compte de stockage existant](image-4.png)
+#### 3. Importer des données dans la base de données
 
-![upload du fichier](image-5.png)
+- Installer SQL Server comme extension dans vscode puis remplir les infos : 
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+
+- Creation de la table et importation d'un fichier csv avec microsoft SQL Server
+
+![alt text](image-5.png)
+
+
+#### 4. Implémenter la géo-réplication
+
+- Implémenter la géo-réplication dans la base de données (replica)
 
 ![alt text](image-6.png)
 
-
-#### 3. Ajout d'une règle de stockage d'archive
-- Dans le storageaccount : 
+- Déploiement effectué
 
 ![alt text](image-7.png)
-
-![alt text](image-8.png)
-
