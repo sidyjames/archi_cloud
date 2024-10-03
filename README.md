@@ -1,25 +1,44 @@
-#  Lab 6 : Créer une ressource Azure Cognitive Services
+# Cloud functions
 
-### Étapes
+### TP 1
 
-#### 1.  Créer une ressource Cognitive Services
+#### 1.  Créer un conteneur logs dans compte de stockage
 
-- Créer une ressource cognitive services
+
+#### 2. Créer une application de fonction
+
 
 ![alt text](image.png)
 
-- Obtenir les clés d'API :
+
+#### 3. Créer une Function avec un déclencheur HTTP
 
 ![alt text](image-1.png)
 
 
-#### 2. Développer une application utilisant l'API Text Analytics
+#### 4. Modifier le code pour utiliser blob storage
 
-- Résultat : 
+
+![alt text](image-2.png)
+
+
+#### 5. Tests
+
+- Méthode POST OK
+
+![alt text](image-3.png)
+
+
+- Méthode GET OK
 
 ![alt text](image-4.png)
 
 
-#### 3. Suivre l’utilisation de l’API et gérer les clés
+- Méthode PUT OK
 
 ![alt text](image-5.png)
+
+
+- Méthode DELETE OK
+
+![alt text](image-6.png)
