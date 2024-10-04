@@ -1,21 +1,19 @@
-# Lab 10 : Configurer Azure Backup et Recovery Services
+# TP 0 : Cloud functions (build a mini pipeline)
 
-#### 1. Créer un Recovery Services Vault
-
+#### 1. Créer un compte de stockage
 
 ![alt text](image.png)
+
+
+
+
+#### 2. Créer un container dans Azure Blob Storage pour stcoker les logs
 
 ![alt text](image-1.png)
 
 
-#### 2. Configurer la Sauvegarde pour les VMs
-
-![alt text](image-2.png)
+#### 3.Créer une Azure Function
 
 
-#### 3. Effectuer une opération de Sauvegarde et de Restauration
 
 
-#### 4. Créer une strategie de sauvegarde
-
-![alt text](image-3.png)
